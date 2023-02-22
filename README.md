@@ -9,7 +9,6 @@ An authentication system that includes: user, registration, login and logout API
 ### Cloning
 * In your terminal:
     > ``$ git clone https://github.com/nealwaga/Django-REST-APIs.git``
-    > ``cd Django-REST-APIs``
 
 ### Installations
 * The following command installs all the application requirements:
